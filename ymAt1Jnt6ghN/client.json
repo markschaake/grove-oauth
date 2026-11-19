@@ -1,0 +1,18 @@
+{
+  "client_id": "https://markschaake.github.io/grove-oauth/ymAt1Jnt6ghN/client.json",
+  "client_name": "Grove",
+  "application_type": "native",
+  "redirect_uris": [
+    "http://127.0.0.1/oauth/callback/ymAt1Jnt6ghN",
+    "http://localhost/oauth/callback/ymAt1Jnt6ghN",
+    "https://marks-macbook-pro.tail13396e.ts.net/oauth/callback/ymAt1Jnt6ghN"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
